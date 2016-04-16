@@ -6,5 +6,7 @@ El archivo original de unitats.bat hay que modificarlo para que cargue este otro
 En el original hay que añadir al final del todo la ubicación de la carpeta AutoRun dentro del el subdirectorio con al final el archivo start.bat todo entre comillas.
 Ej: "\\192.168.0.100\AutoRun\Notebooks\start.bat"
 
-# Si queremos crear un nuevo subdirectorio podemos usar a la opción de avanzado para generar y guardar el archivo start.bat
+Si queremos crear un nuevo subdirectorio podemos usar a la opción de avanzado para generar y guardar el archivo start.bat
+
+
 By: Pachi23
